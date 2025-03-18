@@ -9,7 +9,7 @@ export function HeroSection() {
       <div className="absolute top-0 left-0 w-full bg-primary/10 py-1.5 px-4 text-center text-sm md:text-base">
         <Link href="/suitekeeper" className="text-foreground hover:text-primary transition flex items-center justify-center gap-1">
           <span className="font-semibold text-primary text-xs px-2 py-0.5 rounded bg-primary/10">NEW</span>
-          <span className="ml-2">Discover SuiteKeeper, a next-generation staff management for hospitality</span>
+          <span className="ml-2">Discover SuiteKeeper, the next-generation staff management for hospitality</span>
         </Link>
       </div>
 
